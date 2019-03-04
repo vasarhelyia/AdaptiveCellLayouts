@@ -11,7 +11,6 @@ import UIKit
 
 final class CustomCell: UITableViewCell {
   @IBOutlet weak var numberLabel: UILabel!
-  @IBOutlet weak var stackView: UIStackView!
   @IBOutlet weak var titleLabel: UILabel!
   @IBOutlet weak var detailLabel: UILabel!
 
